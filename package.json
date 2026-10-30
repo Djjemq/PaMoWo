@@ -1,0 +1,1 @@
+{"name":"juego-idiomas","version":"0.2.0","type":"module","private":true,"scripts":{"start":"node src/main.js","test":"node --test","build:pages":"node tools/build-pages.mjs"},"dependencies":{"@electric-sql/pglite":"^0.5.13"}}
